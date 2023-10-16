@@ -9,4 +9,4 @@ game master server, that is capable of playing multiple game sessions at once. T
 "won" if this is the number
 
 Description:
-As outsiders, can start a new round and watch how the two play with each other. The numbers are between 1 and 1000.(Using Flask and it works local)
+As outsiders, can start a new round and watch how the two play with each other. The numbers are between 1 and 1000.(Using Flask and it works local http://localhost:8080/play)
