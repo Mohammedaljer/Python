@@ -1,0 +1,193 @@
+2023-06-04 19:26:56,044 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-04 19:26:56,051 INFO supervisord started with pid 1
+2023-06-04 19:26:57,054 INFO spawned: 'master' with pid 7
+2023-06-04 19:26:57,055 INFO spawned: 'player' with pid 8
+2023-06-04 19:26:57,071 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:26:57,075 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:26:58,078 INFO spawned: 'master' with pid 9
+2023-06-04 19:26:58,080 INFO spawned: 'player' with pid 10
+2023-06-04 19:26:58,099 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:26:58,103 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:00,106 INFO spawned: 'master' with pid 11
+2023-06-04 19:27:00,108 INFO spawned: 'player' with pid 12
+2023-06-04 19:27:00,123 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:00,125 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:03,130 INFO spawned: 'master' with pid 13
+2023-06-04 19:27:03,132 INFO spawned: 'player' with pid 14
+2023-06-04 19:27:03,147 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:03,148 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:07,155 INFO spawned: 'master' with pid 21
+2023-06-04 19:27:07,158 INFO spawned: 'player' with pid 22
+2023-06-04 19:27:07,177 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:07,177 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:12,186 INFO spawned: 'master' with pid 23
+2023-06-04 19:27:12,188 INFO spawned: 'player' with pid 24
+2023-06-04 19:27:12,203 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:12,206 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:18,215 INFO spawned: 'master' with pid 31
+2023-06-04 19:27:18,218 INFO spawned: 'player' with pid 32
+2023-06-04 19:27:18,236 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:18,237 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:25,249 INFO spawned: 'master' with pid 33
+2023-06-04 19:27:25,252 INFO spawned: 'player' with pid 34
+2023-06-04 19:27:25,270 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:25,273 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:33,286 INFO spawned: 'master' with pid 41
+2023-06-04 19:27:33,288 INFO spawned: 'player' with pid 42
+2023-06-04 19:27:33,308 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:33,310 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:42,324 INFO spawned: 'master' with pid 49
+2023-06-04 19:27:42,326 INFO spawned: 'player' with pid 50
+2023-06-04 19:27:42,339 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:27:42,340 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:27:49,350 WARN received SIGTERM indicating exit request
+2023-06-04 19:27:49,351 INFO waiting for master to die
+2023-06-04 19:27:59,309 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-04 19:27:59,316 INFO supervisord started with pid 1
+2023-06-04 19:28:00,320 INFO spawned: 'master' with pid 7
+2023-06-04 19:28:00,325 INFO spawned: 'player' with pid 8
+2023-06-04 19:28:00,338 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:28:00,338 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:28:01,343 INFO spawned: 'master' with pid 9
+2023-06-04 19:28:01,349 INFO spawned: 'player' with pid 10
+2023-06-04 19:28:01,363 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:28:01,364 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:28:03,369 INFO spawned: 'master' with pid 11
+2023-06-04 19:28:03,371 INFO spawned: 'player' with pid 12
+2023-06-04 19:28:03,384 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:28:03,387 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:28:06,395 INFO spawned: 'master' with pid 13
+2023-06-04 19:28:06,402 INFO spawned: 'player' with pid 14
+2023-06-04 19:28:06,415 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:28:06,416 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:28:10,425 INFO spawned: 'master' with pid 21
+2023-06-04 19:28:10,428 INFO spawned: 'player' with pid 22
+2023-06-04 19:28:10,443 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:28:10,445 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:28:15,453 INFO spawned: 'master' with pid 23
+2023-06-04 19:28:15,455 INFO spawned: 'player' with pid 24
+2023-06-04 19:28:15,472 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:28:15,473 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:28:17,477 WARN received SIGTERM indicating exit request
+2023-06-04 19:28:17,479 INFO waiting for master to die
+2023-06-04 19:29:44,059 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-04 19:29:44,063 INFO supervisord started with pid 1
+2023-06-04 19:29:45,066 INFO spawned: 'master' with pid 7
+2023-06-04 19:29:45,067 INFO spawned: 'player' with pid 8
+2023-06-04 19:29:45,078 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:29:45,079 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:29:46,082 INFO spawned: 'master' with pid 9
+2023-06-04 19:29:46,084 INFO spawned: 'player' with pid 10
+2023-06-04 19:29:46,095 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:29:46,096 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:29:48,100 INFO spawned: 'master' with pid 11
+2023-06-04 19:29:48,102 INFO spawned: 'player' with pid 12
+2023-06-04 19:29:48,113 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:29:48,115 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:29:51,120 INFO spawned: 'master' with pid 13
+2023-06-04 19:29:51,121 INFO spawned: 'player' with pid 14
+2023-06-04 19:29:51,132 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:29:51,133 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:29:55,140 INFO spawned: 'master' with pid 21
+2023-06-04 19:29:55,141 INFO spawned: 'player' with pid 22
+2023-06-04 19:29:55,152 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:29:55,154 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:00,162 INFO spawned: 'master' with pid 23
+2023-06-04 19:30:00,164 INFO spawned: 'player' with pid 24
+2023-06-04 19:30:00,175 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:00,177 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:04,183 WARN received SIGTERM indicating exit request
+2023-06-04 19:30:04,185 INFO waiting for master to die
+2023-06-04 19:30:15,691 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-04 19:30:15,698 INFO supervisord started with pid 1
+2023-06-04 19:30:16,701 INFO spawned: 'master' with pid 7
+2023-06-04 19:30:16,704 INFO spawned: 'player' with pid 8
+2023-06-04 19:30:16,723 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:16,724 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:17,728 INFO spawned: 'master' with pid 9
+2023-06-04 19:30:17,730 INFO spawned: 'player' with pid 10
+2023-06-04 19:30:17,750 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:17,754 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:19,760 INFO spawned: 'master' with pid 11
+2023-06-04 19:30:19,764 INFO spawned: 'player' with pid 12
+2023-06-04 19:30:19,778 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:19,779 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:22,784 INFO spawned: 'master' with pid 13
+2023-06-04 19:30:22,787 INFO spawned: 'player' with pid 14
+2023-06-04 19:30:22,803 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:22,808 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:26,817 INFO spawned: 'master' with pid 21
+2023-06-04 19:30:26,821 INFO spawned: 'player' with pid 22
+2023-06-04 19:30:26,839 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:26,840 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:31,849 INFO spawned: 'master' with pid 23
+2023-06-04 19:30:31,851 INFO spawned: 'player' with pid 24
+2023-06-04 19:30:31,871 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:31,872 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:37,886 INFO spawned: 'master' with pid 31
+2023-06-04 19:30:37,893 INFO spawned: 'player' with pid 32
+2023-06-04 19:30:37,922 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:37,924 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:44,936 INFO spawned: 'master' with pid 33
+2023-06-04 19:30:44,939 INFO spawned: 'player' with pid 34
+2023-06-04 19:30:44,960 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:30:44,961 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:52,972 INFO spawned: 'master' with pid 41
+2023-06-04 19:30:52,974 INFO spawned: 'player' with pid 42
+2023-06-04 19:30:52,997 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:30:53,002 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:31:02,013 INFO spawned: 'master' with pid 49
+2023-06-04 19:31:02,016 INFO spawned: 'player' with pid 50
+2023-06-04 19:31:02,033 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:31:02,037 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:31:12,049 INFO spawned: 'master' with pid 57
+2023-06-04 19:31:12,052 INFO spawned: 'player' with pid 58
+2023-06-04 19:31:12,100 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:31:12,101 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:31:12,101 INFO gave up: master entered FATAL state, too many start retries too quickly
+2023-06-04 19:31:12,102 INFO gave up: player entered FATAL state, too many start retries too quickly
+2023-06-04 19:31:18,110 WARN received SIGTERM indicating exit request
+2023-06-04 19:41:57,832 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-04 19:41:57,837 INFO supervisord started with pid 1
+2023-06-04 19:41:58,840 INFO spawned: 'master' with pid 7
+2023-06-04 19:41:58,841 INFO spawned: 'player' with pid 8
+2023-06-04 19:41:58,853 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:41:58,857 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:41:59,861 INFO spawned: 'master' with pid 9
+2023-06-04 19:41:59,866 INFO spawned: 'player' with pid 10
+2023-06-04 19:41:59,880 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:41:59,880 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:42:01,887 INFO spawned: 'master' with pid 11
+2023-06-04 19:42:01,892 INFO spawned: 'player' with pid 12
+2023-06-04 19:42:01,904 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:42:01,905 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:42:04,910 INFO spawned: 'master' with pid 13
+2023-06-04 19:42:04,911 INFO spawned: 'player' with pid 14
+2023-06-04 19:42:04,924 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:42:04,925 INFO exited: player (exit status 2; not expected)
+2023-06-04 19:42:08,932 INFO spawned: 'master' with pid 21
+2023-06-04 19:42:08,934 INFO spawned: 'player' with pid 22
+2023-06-04 19:42:08,935 WARN received SIGTERM indicating exit request
+2023-06-04 19:42:08,935 INFO waiting for master, player to die
+2023-06-04 19:42:08,947 INFO exited: master (exit status 2; not expected)
+2023-06-04 19:42:08,947 INFO stopped: player (exit status 2)
+2023-06-04 21:15:24,033 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-04 21:15:24,040 INFO supervisord started with pid 1
+2023-06-04 21:15:25,046 INFO spawned: 'master' with pid 7
+2023-06-04 21:15:25,048 INFO spawned: 'player' with pid 8
+2023-06-04 21:15:25,079 INFO exited: master (exit status 2; not expected)
+2023-06-04 21:15:25,079 INFO exited: player (exit status 2; not expected)
+2023-06-04 21:15:26,084 INFO spawned: 'master' with pid 9
+2023-06-04 21:15:26,089 INFO spawned: 'player' with pid 10
+2023-06-04 21:15:26,108 INFO exited: master (exit status 2; not expected)
+2023-06-04 21:15:26,110 INFO exited: player (exit status 2; not expected)
+2023-06-04 21:15:28,115 INFO spawned: 'master' with pid 11
+2023-06-04 21:15:28,120 INFO spawned: 'player' with pid 12
+2023-06-04 21:15:28,138 INFO exited: master (exit status 2; not expected)
+2023-06-04 21:15:28,139 INFO exited: player (exit status 2; not expected)
+2023-06-04 21:15:31,146 INFO spawned: 'master' with pid 13
+2023-06-04 21:15:31,148 INFO spawned: 'player' with pid 14
+2023-06-04 21:15:31,169 INFO exited: master (exit status 2; not expected)
+2023-06-04 21:15:31,184 INFO exited: player (exit status 2; not expected)
+2023-06-04 21:15:33,186 WARN received SIGTERM indicating exit request
+2023-06-04 21:15:33,187 INFO waiting for master to die
